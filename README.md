@@ -14,7 +14,7 @@ So I decided to create this project as a proof of concept and present it to my u
 
 This is a desktop app developed with Electron and Firebase.
 
-You may check out this [demo video]([https://durhamuniversity-my.sharepoint.com/:v:/g/personal/qwwk95_durham_ac_uk/EcVtkxEUnKVPkAFh3481g5kBK3vL_6hfEWOhWFfGzMGqRw?e=a6bTpK](https://drive.google.com/file/d/1RtXKYu1RcWfpuqkzp07pXpzueaZMrZTL/view?usp=sharing)) to have a sneak peek of how this project works.
+You may check out this [demo video](https://drive.google.com/file/d/1RtXKYu1RcWfpuqkzp07pXpzueaZMrZTL/view?usp=sharing) to have a sneak peek of how this project works.
 
 ## Get started
 
